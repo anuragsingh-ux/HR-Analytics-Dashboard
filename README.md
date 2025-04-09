@@ -57,5 +57,5 @@ The HR Analytics Dashboard was developed to uncover patterns in employee attriti
 
 ## 🖼️ Dashboard Preview
 
-> 📷 *(You can add a screenshot using this below once you upload image via GitHub Issues)*
+> ![Dashboard Preview](https://github.com/user-attachments/assets/cb0f1ae7-c16f-4d60-9928-65b3126b64b9)
 
